@@ -1,0 +1,19 @@
+JSON Parsing:
+  we parse the json format data to make it js object so we access key-value pairs.
+  Exp:
+    Example - Parsing JSON
+Imagine we received this text from a web server:
+
+'{"name":"John", "age":30, "city":"New York"}'
+Use the JavaScript function JSON.parse() to convert text into a JavaScript object:
+
+const obj = JSON.parse('{"name":"John", "age":30, "city":"New York"}');
+
+Use the JavaScript object in your page:
+
+Example
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = obj.name;
+</script>
