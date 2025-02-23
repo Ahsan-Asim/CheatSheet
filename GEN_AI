@@ -15,3 +15,11 @@ what is point wise non-linearity?
 What are activation functions and all types?
 what is cross entropy loss?
 Cross-entropy loss, mean squared error, and their applications?
+Linear classifier and their limitations?
+
+
+
+how Probability distrution related to GenAI?
+RNN working?
+RNN architecture types and exqamples?
+Gradient explosion and vanishing problem, causes?effects? solution? for this blog: https://medium.com/@kushansharma1/vanishing-exploding-gradients-problem-1901bb2db2b2#:~:text=The%20vanishing%20gradient%20problem%20occurs,gradients%20grow%20exponentially%20during%20backpropagation.
