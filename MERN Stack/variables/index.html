@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nested DOM Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            border: 2px solid #333;
+            padding: 20px;
+            margin: 20px;
+        }
+        .section {
+            border: 1px dashed #666;
+            padding: 15px;
+            margin: 10px;
+        }
+        .highlight {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container" id="mainContainer">
+        <h1>Main Container</h1>
+
+        <div class="section" id="section1">
+            <h2>Section 1</h2>
+            <p>This is a paragraph inside section 1.</p>
+            <div class="sub-section">
+                <h3>Sub Section 1.1</h3>
+                <p>Sub-section paragraph <span class="specialText">Special Text 1</span></p>
+            </div>
+        </div>
+
+        <div class="section" id="section2">
+            <h2>Section 2</h2>
+            <p>This is a paragraph inside section 2.</p>
+            <div class="sub-section">
+                <h3>Sub Section 2.1</h3>
+                <p>Sub-section paragraph <span class="specialText">Special Text 2</span></p>
+            </div>
+        </div>
+
+        <div class="section" id="section3">
+            <h2>Section 3</h2>
+            <p>This is a paragraph inside section 3.</p>
+            <div class="sub-section">
+                <h3>Sub Section 3.1</h3>
+                <p>Sub-section paragraph <span class="specialText">Special Text 3</span></p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="div_1">
+      <h3>New Div1</h3>
+
+    </div>
+
+    <div class="div_1">
+      <h3>New Div2</h3>
+
+    </div>
+
+    <div class="div_1">
+      <h3>New Div3</h3>
+
+    </div>
+
+    <div class="list">
+      <ul>
+        <li>
+            <span>Old Text 1</span>
+            <p>Some other content</p>
+        </li>
+        <li>
+            <span>Old Text 2</span>
+            <p>More content</p>
+        </li>
+        <li id="NewPara">
+            <span>Old Text 3</span>
+            <p>Additional content</p>
+        </li>
+    </ul>
+    
+    </div>
+
+    <div class="button">
+      <button id="Button1">Click me!</button>
+    </div>
+
+    <div id="joke">
+        <button id="Joke1">Click me!
+            
+        </button>
+        <p id="P"></p>
+    </div>
+
+    <script src="hoisting.js"></script>
+
+</body>
+</html>

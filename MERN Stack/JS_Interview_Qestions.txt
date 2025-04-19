@@ -1,0 +1,34 @@
+What is JavaScript and its common uses?
+00:02:12 - What are template literals in JavaScript?
+00:02:59 - What is hoisting? Provide an example.
+00:04:09 - Difference between let, var, and const.
+00:05:40 - Data types in JavaScript.
+00:07:55 - What is an array, and how to access its elements?
+00:08:34 - Difference between == and ===.
+00:09:12 - Purpose of the isNaN function.
+00:10:04 - What is null vs undefined?
+00:10:44 - Use of the typeof operator.
+
+👨‍💻 Intermediate Level JavaScript Interview Questions (JavaScript Interview Preparation Guide):
+00:11:08 - Purpose of the map method in JavaScript.
+00:13:51 - Explain event bubbling and event capturing.
+00:20:25 - What are higher-order functions? Provide an example.
+00:22:18 - What is an IIFE (Immediately Invoked Function Expression)?
+00:24:36 - Explain closures in JavaScript.
+00:30:12 - How do setTimeout and setInterval work?
+00:35:25 - Describe promises in JavaScript.
+00:39:05 - Use of async and await in JavaScript.
+00:42:57 - Difference between call, apply, and bind.
+00:50:01 - What is event delegation?
+
+👨‍💻 JavaScript Interview Questions and Answers for Experienced (JavaScript Interview Coding Questions):
+00:57:46 - Explain the event loop in JavaScript.  
+00:59:47 - Difference between promises and async/await.  
+01:03:56 - Purpose of the reduce method in arrays.  
+01:08:31 - Explain currying in JavaScript.  
+01:12:42 - What is a generator function and its usage?  
+01:15:57 - What are weak maps and weak sets in JavaScript?  
+01:19:39 - How does JavaScript handle memory management?  
+01:21:25 - Difference between shallow and deep copying.  
+01:25:57 - What is strict mode in JavaScript and how is it enabled?  
+01:32:47 - Observer pattern and its relation to JavaScript.
